@@ -1,0 +1,11 @@
+---
+type: InputOutputExercice
+studentId: 8915
+activityId: 154646
+outputTests:
+- command: git status
+  includes: 
+    - Your branch is up to date with 'origin/main'
+activityNumber: 7
+submissionUrl: https://nowledgeable.com/api/assessed-answer
+...
